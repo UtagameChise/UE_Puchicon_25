@@ -1,2 +1,5 @@
-2026/02/21-12:45:53.013 60c0 Creating DB C:\GitHub\UE_Puchicon_25\Puchicon_25_Tou\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2026/02/21-12:45:53.057 60c0 Reusing MANIFEST C:\GitHub\UE_Puchicon_25\Puchicon_25_Tou\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/02/21-13:47:52.648 97c0 Log #3: 3 ops saved to Table #4 OK
+2026/02/21-13:47:52.656 97c0 Archiving C:\UE_Puchicon_25\Puchicon_25_Tou\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/02/21-13:47:52.656 97c0 Table #4: 3 entries OK
+2026/02/21-13:47:52.658 97c0 Archiving C:\UE_Puchicon_25\Puchicon_25_Tou\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/02/21-13:47:52.667 97c0 **** Repaired leveldb C:\UE_Puchicon_25\Puchicon_25_Tou\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
