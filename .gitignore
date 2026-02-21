@@ -73,3 +73,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Puchicon_25_Tou/Intermediate
+/Puchicon_25_Tou/Saved
